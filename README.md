@@ -13,10 +13,7 @@
 
 <div align="center">
 
-US Air Force Veteran, MBA graduate, M.S Business Analytics student and novice coder. With a background spanning across healthcare operations, financial management and real estate, I discovered my passion lies within analyzing information, optimizing processes and finding better ways to make decisions. I'm currently pursuing my M.S in Business Analytics and building projects that focus on machine learning, predictive analytics, business intelligence and data visualization. 
-
-Thanks for stopping by, feel free to explore my projects as I contine to learn and grow in the analytics space. 
-
+US Air Force Veteran, MBA graduate, M.S Business Analytics student and novice coder. With a background spanning across healthcare operations, financial management and real estate, I discovered my passion lies within analyzing information, optimizing processes and finding better ways to make decisions. I'm currently working on building projects that focus on machine learning, predictive analytics, business intelligence and data visualization. 
 
 </div>
 
