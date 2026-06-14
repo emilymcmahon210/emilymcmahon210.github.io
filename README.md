@@ -44,10 +44,10 @@ Thanks for stopping by, feel free to explore my projects as I contine to learn a
 ## Check out some of my recent projects⤵︎
 </b>
 
-#### 📈 Stock Price Reaction to Earnings Announcements
+#### 📈 Stock Price Reactions to Earnings Announcements
 Can earnings surprise metrics predict stock price movement after earnings releases?  
 
-<a href="https://github.com/emilymcmahon210/Stock-Price-Prediction">
+<a href="https://github.com/emilymcmahon210/Stock-Price-Reactions-to-Earnings">
   <img src="https://img.shields.io/badge/View_Project-E6D5CE?style=for-the-badge&logoColor=black">
 </a>
 
