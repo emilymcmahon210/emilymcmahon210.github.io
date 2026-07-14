@@ -45,7 +45,7 @@ US Air Force Veteran, MBA graduate, and M.S Business Analytics student. With a b
 
 Can AI-powered customer support reduce operational costs without negatively affecting customer experience?
 
-<a href="[(https://github.com/emilymcmahon210/AI_Powered_Customer_Support)]">
+<a href="https://github.com/emilymcmahon210/AI_Powered_Customer_Support">
   <img src="https://img.shields.io/badge/View_Project-E6D5CE?style=for-the-badge&logoColor=black">
 </a>
 
