@@ -13,7 +13,9 @@
 
 <div align="center">
 
-US Air Force Veteran, MBA graduate, and M.S Business Analytics student. With a background spanning across healthcare operations, financial management and real estate, I discovered my passion lies within analyzing information, optimizing processes and finding better ways to make decisions. I'm currently working on building projects that focus on machine learning, predictive analytics, business intelligence and data visualization. 
+US Air Force veteran, MBA graduate, and M.S. in Business Analytics candidate. With a background spanning healthcare operations, financial management, and real estate, I discovered my passion for analyzing information, optimizing processes, and finding better ways to make decisions. I'm currently building projects in machine learning, predictive analytics, business intelligence, and data visualization. 
+
+Open to Data Analyst, Business Analyst and/or Strategy Consultant Opportunities. 
 
 </div>
 
@@ -38,7 +40,7 @@ US Air Force Veteran, MBA graduate, and M.S Business Analytics student. With a b
 <b>
 
 
-## Check out some of my recent projects⤵︎
+### Check out some of my recent projects⤵︎
 </b>
 
 #### 👩🏼‍💻 AI Powered Customer Support 
@@ -53,14 +55,6 @@ Can AI-powered customer support reduce operational costs without negatively affe
 Can earnings surprise metrics predict stock price movement after earnings releases?  
 
 <a href="https://github.com/emilymcmahon210/Stock-Price-Reactions-to-Earnings">
-  <img src="https://img.shields.io/badge/View_Project-E6D5CE?style=for-the-badge&logoColor=black">
-</a>
-
-
-#### 🧑‍🧑‍🧒‍🧒 Spotify Churn Analysis  
-Using clustering techniques to identify customer groups and support more targeted marketing strategies.
-
-<a href="https://github.com/emilymcmahon210/Spotify-Churn-Analysis">
   <img src="https://img.shields.io/badge/View_Project-E6D5CE?style=for-the-badge&logoColor=black">
 </a>
 
