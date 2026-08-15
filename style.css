@@ -1,17 +1,17 @@
 :root {
-  --background: #e9ecef;
-  --background-soft: #e8ece5;
-  --card: #f8f9f6;
+  --background: #F7F7F5;
+  --background-soft: #EFEFEC;
+  --card: #FFFFFF;
 
-  --text: #1f2d26;
-  --muted: #69766f;
+  --text: #181818;
+  --muted: #686868;
 
-  --green: #315b3d;
-  --green-dark: #25472f;
+  --green: #3A3A3A;
+  --green-dark: #171717;
 
-  --accent: #b47a38;
+ --accent: #B99F96;
 
-  --border: #cbd2cb;
+  --border: #D8D8D4;
 
   --serif: "Playfair Display", Georgia, serif;
   --sans: "DM Sans", Arial, sans-serif;
