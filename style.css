@@ -63,7 +63,7 @@ a {
 }
 
 .section-light {
-  background: #f4f5f2;
+  background: var(--background);
 }
 
 .section-soft {
