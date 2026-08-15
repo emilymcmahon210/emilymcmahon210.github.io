@@ -366,7 +366,7 @@ grid-template-columns: repeat(5, 1fr);
 }
 
 .about-copy p {
-  font-size: 20px;
+  font-size: 16px;
   line-height: 1.9;
   color: #37423d;
 }
