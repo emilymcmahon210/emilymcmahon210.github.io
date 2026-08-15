@@ -152,7 +152,7 @@ a {
 
 .hero h1 {
   font-family: var(--serif);
-  font-size: clamp(72px, 8vw, 118px);
+  font-size: clamp(55px, 6vw, 85px);
   line-height: 0.88;
   letter-spacing: -4px;
 
@@ -163,7 +163,7 @@ a {
 .hero-description {
   max-width: 700px;
 
-  font-size: 22px;
+  font-size: 18px;
   line-height: 1.8;
 
   color: var(--muted);
