@@ -1,89 +1,109 @@
-<p align="center">
-  <img src="updated banner.jpg" width="100%">
-</p> 
-
-
-
-<div align="center"> 
-  <img src="https://giffiles.alphacoders.com/919/91986.gif" width="1500" height= "600"> </div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=E6D5CE&reversal=true"/> 
-</div>
-
-
-<h1 align="center">Welcome, I'm Emily 🤍 </h1>
-
 <div align="center">
 
-US Air Force veteran, MBA graduate, and M.S. in Business Analytics candidate. With a background spanning healthcare operations, financial management, and real estate, I discovered my passion for analyzing information, optimizing processes, and finding better ways to make decisions. I'm currently building projects in machine learning, predictive analytics, business intelligence, and data visualization. 
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=38&duration=800&pause=15000&color=000000&center=true&vCenter=true&width=700&height=50&lines=EMILY+MCMAHON" alt="Emily McMahon"/>
 
-Open to Data Analyst, Business Analyst and/or Strategy Consultant Opportunities. 
+<p>
+  <strong>Strategy • Business Transformation • Analytics</strong><br>
+  U.S. Air Force Veteran &nbsp;|&nbsp; MBA &nbsp;|&nbsp; M.S. Business Analytics Candidate
+</p>
 
 </div>
 
+---
 
-<h3 align="center">Tools & Skills</h3>
+## About Me
+
+Business strategy professional with experience spanning healthcare operations, financial management, real estate, and analytics. My work and academic experience have centered on solving complex business problems, improving processes, evaluating performance, and translating data into actionable recommendations.
+
+This portfolio highlights selected projects that demonstrate how I use **analytics, technology, and structured problem-solving to support strategic decision-making and business performance.**
+
+---
+
+## Areas of Focus
+
+### STRATEGY & BUSINESS
+
+Business Strategy • Business Analysis • Process Improvement • Financial Analysis • Operational Performance • Decision Support
+
+### ANALYTICS & TECHNOLOGY
+
+Data Analysis • Predictive Modeling • Business Intelligence • Data Visualization • Machine Learning • Forecasting
+
+---
+
+## Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-EDE0D4?style=for-the-badge&logo=python&logoColor=black">
-  <img src="https://img.shields.io/badge/SQL-E6D5CE?style=for-the-badge&logo=mysql&logoColor=black">
-  <img src="https://img.shields.io/badge/Tableau-EDE0D4?style=for-the-badge&logo=tableau&logoColor=black">
-  <img src="https://img.shields.io/badge/Power%20BI-E6D5CE?style=for-the-badge&logo=powerbi&logoColor=black">
-  <img src="https://img.shields.io/badge/Excel-EDE0D4?style=for-the-badge&logo=microsoft-excel&logoColor=black">
-  <img src="https://img.shields.io/badge/Pandas-E6D5CE?style=for-the-badge&logo=pandas&logoColor=black">
-  <img src="https://img.shields.io/badge/NumPy-EDE0D4?style=for-the-badge&logo=numpy&logoColor=black">
-  <img src="https://img.shields.io/badge/Scikit--Learn-E6D5CE?style=for-the-badge&logo=scikitlearn&logoColor=black">
-  <img src="https://img.shields.io/badge/Matplotlib-EDE0D4?style=for-the-badge&logoColor=black">
-    <img src="https://img.shields.io/badge/Machine%20Learning-E6D5CE?style=for-the-badge&logoColor=black">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-EDE0D4?style=for-the-badge&logoColor=black">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-E6D5CE?style=for-the-badge&logoColor=black">
+  <img src="https://img.shields.io/badge/Excel-3D3D3D?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+  <img src="https://img.shields.io/badge/Power%20BI-3D3D3D?style=for-the-badge&logo=powerbi&logoColor=white">
+  <img src="https://img.shields.io/badge/Tableau-3D3D3D?style=for-the-badge&logo=tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-3D3D3D?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3D3D3D?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SAP%20Analytics%20Cloud-3D3D3D?style=for-the-badge&logo=sap&logoColor=white">
 </p>
 
-<b>
+---
 
+## Selected Strategy & Analytics Projects
 
-### Check out some of my recent projects⤵︎
-</b>
+### AI-Powered Customer Support
 
-#### 👩🏼‍💻 AI Powered Customer Support 
+**Business Transformation · AI Strategy · Operational Efficiency**
 
-Can AI-powered customer support reduce operational costs without negatively affecting customer experience?
+Evaluated the business impact of AI-powered customer support across operating cost, response time, and customer satisfaction to determine whether automation could improve service delivery without compromising customer experience.
 
 <a href="https://github.com/emilymcmahon210/AI_Powered_Customer_Support">
-  <img src="https://img.shields.io/badge/View_Project-E6D5CE?style=for-the-badge&logoColor=black">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-#### 📈 Stock Price Reactions to Earnings Announcements
-Can earnings surprise metrics predict stock price movement after earnings releases?  
+---
+
+### Stock Price Reactions to Earnings Announcements
+
+**Financial Analysis · Predictive Analytics · Decision Support**
+
+Analyzed earnings surprises and subsequent market reactions to identify patterns in short-term stock performance and evaluate their potential value for investment decision-making.
 
 <a href="https://github.com/emilymcmahon210/Stock-Price-Reactions-to-Earnings">
-  <img src="https://img.shields.io/badge/View_Project-E6D5CE?style=for-the-badge&logoColor=black">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
+---
 
-#### 🧪All Other Data Science Projects 
-A collection of projects each demonstrating different aspects of data analysis, machine learning and visualization.
+### Business Analytics & Decision Support
+
+**Business Intelligence · Predictive Modeling · Data Visualization**
+
+A collection of applied analytics projects focused on evaluating business problems, identifying performance drivers, forecasting outcomes, and translating data into actionable insights.
 
 <a href="https://github.com/emilymcmahon210/Data-Science-Projects">
-  <img src="https://img.shields.io/badge/View_Project-E6D5CE?style=for-the-badge&logoColor=black">
+  <img src="https://img.shields.io/badge/VIEW_PROJECTS-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
+
+---
+
+## Experience & Perspective
+
+My professional background includes work across **military healthcare operations, financial and resource management, and real estate consulting**, providing experience working with complex organizations, diverse stakeholders, and data-driven business decisions.
+
+My current focus is at the intersection of **strategy, business transformation, analytics, and technology.**
+
+---
 
 <div align="center">
 
+## Connect
 
-## Connect With Me
+<a href="https://www.linkedin.com/in/emily-mcmahon1/">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/emily-mcmahon1/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" />
-  </a>
+<a href="mailto:emilymcmahon210@yahoo.com">
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-  <a href="mailto:emilymcmahon210@yahoo.comO">
-    <img src="https://cdn.simpleicons.org/gmail/000000" width="35" />
-  </a>
-
-  <a href="https://github.com/emilymcmahon210">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" />
-  </a>
-</p>
-
+<a href="https://github.com/emilymcmahon210">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </div>
