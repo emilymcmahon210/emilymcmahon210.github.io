@@ -1,182 +1,530 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <title>Emily McMahon | Strategy & Analytics</title>
 
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&family=DM+Sans:wght@400;500;600&family=Playfair+Display:wght@500;600&display=swap" rel="stylesheet">
+
   <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
-  <nav>
-    <div class="logo">EM</div>
+  <!-- NAV -->
+  <nav class="navbar">
 
-    <div class="nav-links">
-      <a href="#about">About</a>
-      <a href="#projects">Projects</a>
-      <a href="#experience">Experience</a>
-      <a href="#contact">Contact</a>
+    <div class="nav-container">
+
+      <a href="#home" class="brand">
+        EMILY MCMAHON
+      </a>
+
+      <div class="nav-links">
+        <a href="#journey">Journey</a>
+        <a href="#about">About</a>
+        <a href="#projects">Projects</a>
+        <a href="#skills">Skills</a>
+        <a href="#contact">Contact</a>
+      </div>
+
     </div>
+
   </nav>
 
 
-  <section class="hero">
+  <!-- HERO -->
+  <section class="hero" id="home">
 
-    <p class="eyebrow">STRATEGY • BUSINESS TRANSFORMATION • ANALYTICS</p>
+    <div class="container hero-grid">
 
-    <h1>
-      Emily<br>
-      McMahon
-    </h1>
+      <div class="hero-content">
 
-    <p class="hero-text">
-      Business strategy professional combining experience,
-      analytics, and structured problem-solving to support
-      better business decisions.
-    </p>
+        <div class="location">
+          <span class="accent-square"></span>
+          TAMPA, FL
+        </div>
 
-    <a href="#projects" class="button">VIEW SELECTED WORK</a>
+        <h1>
+          Emily<br>
+          McMahon
+        </h1>
+
+        <p class="hero-description">
+          <strong>Strategy & Business Professional.</strong>
+          I combine experience across healthcare operations,
+          financial management, real estate, and analytics to solve
+          complex business problems and support better decisions.
+        </p>
+
+        <div class="hero-buttons">
+
+          <a href="#projects" class="button primary">
+            → Selected Work
+          </a>
+
+          <a
+            href="https://www.linkedin.com/in/emily-mcmahon1/"
+            target="_blank"
+            class="button secondary">
+            LinkedIn
+          </a>
+
+          <a
+            href="https://github.com/emilymcmahon210"
+            target="_blank"
+            class="button secondary">
+            GitHub
+          </a>
+
+          <a
+            href="mailto:emilymcmahon210@yahoo.com"
+            class="button secondary">
+            Email
+          </a>
+
+        </div>
+
+      </div>
+
+
+      <div class="hero-photo">
+
+        <!-- Replace src with your own image later -->
+        <div class="photo-placeholder">
+          YOUR<br>HEADSHOT
+        </div>
+
+      </div>
+
+    </div>
 
   </section>
 
 
-  <section id="about">
+  <!-- JOURNEY -->
+  <section class="section section-light" id="journey">
 
-    <p class="section-number">01</p>
+    <div class="container">
 
-    <h2>About</h2>
+      <div class="section-heading">
+        <span class="section-number">01</span>
+        <h2>The Journey</h2>
+      </div>
 
-    <p class="large-text">
-      U.S. Air Force veteran, MBA graduate, and M.S. in Business
-      Analytics candidate with experience spanning healthcare
-      operations, financial management, real estate, and analytics.
-    </p>
 
-    <p>
-      My work centers on solving complex business problems,
-      improving processes, evaluating performance, and translating
-      information into actionable recommendations.
-    </p>
+      <div class="timeline">
+
+        <div class="timeline-item">
+
+          <div class="timeline-marker"></div>
+
+          <p class="timeline-date">
+            2015 — 2019
+          </p>
+
+          <h3>
+            Aeromedical Operations
+          </h3>
+
+          <p class="timeline-company">
+            U.S. Air Force
+          </p>
+
+          <p>
+            Supported global aeromedical operations across
+            international missions while helping coordinate
+            healthcare and administrative activities.
+          </p>
+
+        </div>
+
+
+        <div class="timeline-item">
+
+          <div class="timeline-marker"></div>
+
+          <p class="timeline-date">
+            2019 — 2023
+          </p>
+
+          <h3>
+            Healthcare Operations & Financial Management
+          </h3>
+
+          <p class="timeline-company">
+            U.S. Air Force
+          </p>
+
+          <p>
+            Led healthcare operations, financial analysis,
+            resource management, and process improvement across
+            complex military healthcare organizations.
+          </p>
+
+        </div>
+
+
+        <div class="timeline-item">
+
+          <div class="timeline-marker"></div>
+
+          <p class="timeline-date">
+            2023 — 2025
+          </p>
+
+          <h3>
+            Real Estate Analyst & Consultant
+          </h3>
+
+          <p class="timeline-company">
+            Tampa, Florida
+          </p>
+
+          <p>
+            Applied market analysis, client strategy,
+            valuation insights, and business development
+            across residential real estate transactions.
+          </p>
+
+        </div>
+
+
+        <div class="timeline-item current">
+
+          <div class="timeline-marker"></div>
+
+          <p class="timeline-date">
+            2025 — Present
+          </p>
+
+          <h3>
+            Strategy & Analytics
+          </h3>
+
+          <p class="timeline-company">
+            MBA + M.S. Business Analytics
+          </p>
+
+          <p>
+            Building expertise across business strategy,
+            analytics, technology, predictive modeling,
+            and data-driven decision support.
+          </p>
+
+        </div>
+
+      </div>
+
+    </div>
 
   </section>
 
 
-  <section id="projects">
+  <!-- ABOUT -->
+  <section class="section section-soft" id="about">
 
-    <p class="section-number">02</p>
+    <div class="container narrow">
 
-    <h2>Selected Strategy & Analytics Projects</h2>
+      <div class="section-heading">
+        <span class="section-number">02</span>
+        <h2>About Me</h2>
+      </div>
+
+      <div class="about-copy">
+
+        <p>
+          My professional background spans military healthcare,
+          financial management, real estate, and business analytics.
+          Across each environment, I found myself drawn to the same
+          kind of work: understanding complex problems, improving
+          processes, evaluating performance, and helping people make
+          better decisions.
+        </p>
+
+        <p>
+          Today, my focus is at the intersection of
+          <em>strategy, business transformation, analytics, and technology.</em>
+          I enjoy translating data and information into actionable
+          insights, developing structured recommendations, and
+          connecting analytical work to real business outcomes.
+        </p>
+
+      </div>
+
+    </div>
+
+  </section>
 
 
-    <div class="project">
+  <!-- PROJECTS -->
+  <section class="section section-light" id="projects">
 
-      <p class="project-category">
-        BUSINESS TRANSFORMATION • AI STRATEGY
-      </p>
+    <div class="container">
 
-      <h3>AI-Powered Customer Support</h3>
+      <div class="section-heading">
+        <span class="section-number">03</span>
+        <h2>Projects</h2>
+      </div>
+
+
+      <div class="project-card">
+
+        <p class="project-tags">
+          BUSINESS TRANSFORMATION · AI STRATEGY · ANALYTICS
+        </p>
+
+        <h3>
+          AI-Powered Customer Support
+        </h3>
+
+        <p class="project-summary">
+          Evaluated whether AI-powered customer support could
+          improve service efficiency and reduce operating costs
+          while maintaining customer satisfaction.
+        </p>
+
+        <div class="project-columns">
+
+          <div>
+            <h4>BUSINESS QUESTION</h4>
+
+            <p>
+              Can automation reduce customer support costs
+              without negatively affecting service quality?
+            </p>
+          </div>
+
+          <div>
+            <h4>KEY INSIGHT</h4>
+
+            <p>
+              Compared response time, customer satisfaction,
+              and cost performance to evaluate the broader
+              business case for AI-enabled support.
+            </p>
+          </div>
+
+        </div>
+
+        <div class="project-actions">
+
+          <a
+            href="https://github.com/emilymcmahon210/AI_Powered_Customer_Support"
+            target="_blank"
+            class="button secondary">
+            View Project →
+          </a>
+
+        </div>
+
+      </div>
+
+
+      <div class="project-card">
+
+        <p class="project-tags">
+          FINANCIAL ANALYSIS · PREDICTIVE ANALYTICS · DECISION SUPPORT
+        </p>
+
+        <h3>
+          Stock Price Reactions to Earnings Announcements
+        </h3>
+
+        <p class="project-summary">
+          Analyzed earnings surprises and subsequent market
+          reactions to evaluate whether financial performance
+          signals could help explain short-term stock movement.
+        </p>
+
+        <div class="project-columns">
+
+          <div>
+            <h4>BUSINESS QUESTION</h4>
+
+            <p>
+              Can earnings surprise metrics provide useful
+              signals for investment decision-making?
+            </p>
+          </div>
+
+          <div>
+            <h4>APPROACH</h4>
+
+            <p>
+              Combined financial event data with predictive
+              modeling to identify patterns in post-earnings
+              stock performance.
+            </p>
+          </div>
+
+        </div>
+
+        <div class="project-actions">
+
+          <a
+            href="https://github.com/emilymcmahon210/Stock-Price-Reactions-to-Earnings"
+            target="_blank"
+            class="button secondary">
+            View Project →
+          </a>
+
+        </div>
+
+      </div>
+
+
+      <div class="project-card">
+
+        <p class="project-tags">
+          BUSINESS INTELLIGENCE · PREDICTIVE MODELING · VISUALIZATION
+        </p>
+
+        <h3>
+          Business Analytics & Decision Support
+        </h3>
+
+        <p class="project-summary">
+          A collection of applied analytics projects focused
+          on evaluating business problems, identifying performance
+          drivers, forecasting outcomes, and translating analysis
+          into actionable insight.
+        </p>
+
+        <div class="project-actions">
+
+          <a
+            href="https://github.com/emilymcmahon210/Data-Science-Projects"
+            target="_blank"
+            class="button secondary">
+            View Projects →
+          </a>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </section>
+
+
+  <!-- SKILLS -->
+  <section class="section section-soft" id="skills">
+
+    <div class="container">
+
+      <div class="section-heading">
+        <span class="section-number">04</span>
+        <h2>Capabilities</h2>
+      </div>
+
+
+      <div class="skills-grid">
+
+        <div class="skill-column">
+
+          <h3>
+            STRATEGY & BUSINESS
+          </h3>
+
+          <div class="skill-tags">
+            <span>Business Strategy</span>
+            <span>Business Analysis</span>
+            <span>Process Improvement</span>
+            <span>Financial Analysis</span>
+            <span>Decision Support</span>
+            <span>Business Transformation</span>
+          </div>
+
+        </div>
+
+
+        <div class="skill-column">
+
+          <h3>
+            ANALYTICS & INSIGHTS
+          </h3>
+
+          <div class="skill-tags">
+            <span>Data Analysis</span>
+            <span>Predictive Modeling</span>
+            <span>Forecasting</span>
+            <span>Business Intelligence</span>
+            <span>Data Visualization</span>
+            <span>Data Storytelling</span>
+          </div>
+
+        </div>
+
+
+        <div class="skill-column">
+
+          <h3>
+            TOOLS & TECHNOLOGY
+          </h3>
+
+          <div class="skill-tags">
+            <span>Excel</span>
+            <span>Power BI</span>
+            <span>Tableau</span>
+            <span>SQL</span>
+            <span>Python</span>
+            <span>SAP Analytics Cloud</span>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </section>
+
+
+  <!-- CONTACT -->
+  <section class="contact" id="contact">
+
+    <div class="container contact-inner">
+
+      <h2>
+        Let’s talk strategy, business,<br>
+        analytics — or all three.
+      </h2>
 
       <p>
-        Evaluated whether AI-powered customer support could reduce
-        operating costs and improve service efficiency while
-        maintaining customer satisfaction.
+        Open to opportunities across strategy,
+        consulting, business transformation, and analytics.
       </p>
 
-      <a
-        href="https://github.com/emilymcmahon210/AI_Powered_Customer_Support"
-        target="_blank">
-        VIEW PROJECT →
-      </a>
+      <div class="contact-buttons">
 
-    </div>
+        <a
+          href="mailto:emilymcmahon210@yahoo.com"
+          class="button primary">
+          Email Me
+        </a>
 
+        <a
+          href="https://www.linkedin.com/in/emily-mcmahon1/"
+          target="_blank"
+          class="button secondary">
+          LinkedIn
+        </a>
 
-    <div class="project">
+        <a
+          href="https://github.com/emilymcmahon210"
+          target="_blank"
+          class="button secondary">
+          GitHub
+        </a>
 
-      <p class="project-category">
-        FINANCIAL ANALYSIS • PREDICTIVE ANALYTICS
-      </p>
-
-      <h3>Stock Price Reactions to Earnings Announcements</h3>
-
-      <p>
-        Analyzed earnings surprises and market reactions to identify
-        patterns in short-term stock performance and support
-        investment decision-making.
-      </p>
-
-      <a
-        href="https://github.com/emilymcmahon210/Stock-Price-Reactions-to-Earnings"
-        target="_blank">
-        VIEW PROJECT →
-      </a>
-
-    </div>
-
-  </section>
-
-
-  <section id="experience">
-
-    <p class="section-number">03</p>
-
-    <h2>Experience & Perspective</h2>
-
-    <div class="experience-grid">
-
-      <div>
-        <h3>U.S. Air Force</h3>
-        <p>
-          Healthcare Operations • Financial Management • Leadership
-        </p>
       </div>
-
-      <div>
-        <h3>Real Estate</h3>
-        <p>
-          Market Analysis • Client Strategy • Business Development
-        </p>
-      </div>
-
-      <div>
-        <h3>MBA + Business Analytics</h3>
-        <p>
-          Strategy • Analytics • Technology
-        </p>
-      </div>
-
-    </div>
-
-  </section>
-
-
-  <section id="contact">
-
-    <p class="section-number">04</p>
-
-    <h2>Let's Connect</h2>
-
-    <div class="contact-links">
-
-      <a
-        href="https://www.linkedin.com/in/emily-mcmahon1/"
-        target="_blank">
-        LinkedIn
-      </a>
-
-      <a
-        href="https://github.com/emilymcmahon210"
-        target="_blank">
-        GitHub
-      </a>
-
-      <a href="mailto:emilymcmahon210@yahoo.com">
-        Email
-      </a>
 
     </div>
 
