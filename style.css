@@ -1,0 +1,180 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: #f7f7f5;
+  color: #181818;
+  line-height: 1.6;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 28px 6%;
+  border-bottom: 1px solid #d9d9d5;
+}
+
+.logo {
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+
+.nav-links {
+  display: flex;
+  gap: 30px;
+}
+
+a {
+  color: #181818;
+  text-decoration: none;
+}
+
+.nav-links a {
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.hero {
+  min-height: 85vh;
+  padding: 100px 8%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.eyebrow {
+  font-size: 12px;
+  letter-spacing: 3px;
+  margin-bottom: 30px;
+}
+
+.hero h1 {
+  margin: 0;
+  font-size: clamp(70px, 12vw, 160px);
+  font-weight: 500;
+  line-height: 0.85;
+  letter-spacing: -6px;
+}
+
+.hero-text {
+  max-width: 600px;
+  font-size: 20px;
+  margin-top: 50px;
+}
+
+.button {
+  margin-top: 25px;
+  width: fit-content;
+  background: #181818;
+  color: white;
+  padding: 14px 22px;
+  font-size: 12px;
+  letter-spacing: 1.5px;
+}
+
+section {
+  padding: 110px 8%;
+  border-top: 1px solid #d9d9d5;
+}
+
+.section-number {
+  font-size: 12px;
+  letter-spacing: 2px;
+  color: #777;
+}
+
+h2 {
+  font-size: clamp(40px, 6vw, 80px);
+  font-weight: 400;
+  margin: 10px 0 60px;
+  letter-spacing: -2px;
+}
+
+.large-text {
+  max-width: 1000px;
+  font-size: 30px;
+  line-height: 1.4;
+}
+
+#about > p:not(.section-number) {
+  max-width: 900px;
+}
+
+.project {
+  padding: 50px 0;
+  border-top: 1px solid #cfcfca;
+}
+
+.project-category {
+  font-size: 11px;
+  letter-spacing: 2px;
+  color: #666;
+}
+
+.project h3 {
+  font-size: 34px;
+  font-weight: 400;
+  margin: 10px 0;
+}
+
+.project p {
+  max-width: 750px;
+}
+
+.project a {
+  display: inline-block;
+  margin-top: 15px;
+  font-size: 12px;
+  letter-spacing: 1px;
+  font-weight: bold;
+}
+
+.experience-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 40px;
+}
+
+.experience-grid h3 {
+  font-size: 24px;
+  font-weight: 400;
+}
+
+.contact-links {
+  display: flex;
+  gap: 40px;
+  font-size: 22px;
+}
+
+@media (max-width: 800px) {
+
+  .nav-links {
+    display: none;
+  }
+
+  .hero {
+    min-height: 75vh;
+  }
+
+  .hero h1 {
+    letter-spacing: -3px;
+  }
+
+  .experience-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .contact-links {
+    flex-direction: column;
+  }
+}
