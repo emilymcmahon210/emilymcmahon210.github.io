@@ -286,9 +286,8 @@ a {
   position: relative;
 
   display: grid;
-grid-template-columns: repeat(5, 1fr);
-
-  gap: 28px;
+grid-template-columns: repeat(6, minmax(0, 1fr));
+  gap: 24px;
 
   padding-top: 45px;
 }
@@ -548,6 +547,20 @@ grid-template-columns: repeat(5, 1fr);
 
 /* RESPONSIVE */
 
+@media (max-width: 1200px) {
+
+  .timeline {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 40px;
+  }
+
+  .timeline::before {
+    display: none;
+  }
+
+}
+
+
 @media (max-width: 900px) {
 
   .nav-links {
@@ -596,3 +609,5 @@ grid-template-columns: repeat(5, 1fr);
   }
 
 }
+
+
